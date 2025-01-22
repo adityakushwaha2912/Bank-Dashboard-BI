@@ -1,0 +1,1 @@
+Developed an interactive Power BI dashboard for analyzing key banking metrics and trends, enabling actionable insights and data-driven decision-making. Demonstrated expertise in data visualization, DAX calculations, and dashboard optimization
